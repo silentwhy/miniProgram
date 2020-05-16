@@ -1,4 +1,4 @@
-// about/about.js
+// shopcart/shopcart.js
 Page({
 
   /**
